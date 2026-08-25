@@ -1,0 +1,32 @@
+ git init
+  git branch
+  git branch
+  clear
+  git init
+  ls -la
+ clear
+   git status
+   git status
+   clear
+   git status
+   git status
+   clear
+   git status
+   git add  testing.py
+  clear
+  git add  testing.py
+  git status
+  git rm --cached testing.py  
+  git status
+   clear
+ git status
+  git add  testing.py
+  git status
+ clear
+   git rm --cached testing.py  
+   git status
+     git commit -m "file"
+   git status
+  git logs
+  rm testing.py
+  
